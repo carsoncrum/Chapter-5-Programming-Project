@@ -1,4 +1,4 @@
-// This is the main branch for 3 separate programs.
+//Calculating the student lineup
 #include <iostream>
 using namespace std;
 
